@@ -1,5 +1,5 @@
 ﻿using MethodOverloading;
 
-Console.WriteLine(Methods.Add(2,3, true));
+Console.WriteLine(Methods.Add(0,0, true));
 
 

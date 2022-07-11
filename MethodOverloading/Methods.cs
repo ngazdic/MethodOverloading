@@ -27,6 +27,10 @@ namespace MethodOverloading
 
 
                 return sum + " dollars";
+            }else if(f == true && sum == 0)
+            {
+
+                return sum + " dollars";
             }
             else if (f == true && sum == 1)
             {
